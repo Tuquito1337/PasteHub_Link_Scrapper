@@ -1,7 +1,7 @@
 # PasteHub_Link_Scrapper
 A simple pastehub link scrapper with custom keyword:P
 
-Requeriments
+# Requeriments
 
 bs4
 cloudscraper
